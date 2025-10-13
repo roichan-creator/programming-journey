@@ -1,0 +1,16 @@
+D:\c#RmfXpplg1\halloworld\halloworld\bin\Debug\halloworld.exe.config
+D:\c#RmfXpplg1\halloworld\halloworld\bin\Debug\halloworld.exe
+D:\c#RmfXpplg1\halloworld\halloworld\bin\Debug\halloworld.pdb
+D:\c#RmfXpplg1\halloworld\halloworld\obj\Debug\halloworld.csproj.AssemblyReference.cache
+D:\c#RmfXpplg1\halloworld\halloworld\obj\Debug\halloworld.csproj.CoreCompileInputs.cache
+D:\c#RmfXpplg1\halloworld\halloworld\obj\Debug\halloworld.exe
+D:\c#RmfXpplg1\halloworld\halloworld\obj\Debug\halloworld.pdb
+D:\c#RmfXpplg1\halloworld\halloworld\obj\Debug\halloworld.exe.config
+C:\Users\ASUS TUF\Downloads\drive-download-20251013T045037Z-1-001\praktik 1.2\praktik 1.2\halloworld\bin\Debug\halloworld.exe.config
+C:\Users\ASUS TUF\Downloads\drive-download-20251013T045037Z-1-001\praktik 1.2\praktik 1.2\halloworld\bin\Debug\halloworld.exe
+C:\Users\ASUS TUF\Downloads\drive-download-20251013T045037Z-1-001\praktik 1.2\praktik 1.2\halloworld\bin\Debug\halloworld.pdb
+C:\Users\ASUS TUF\Downloads\drive-download-20251013T045037Z-1-001\praktik 1.2\praktik 1.2\halloworld\obj\Debug\halloworld.csproj.AssemblyReference.cache
+C:\Users\ASUS TUF\Downloads\drive-download-20251013T045037Z-1-001\praktik 1.2\praktik 1.2\halloworld\obj\Debug\halloworld.exe.config
+C:\Users\ASUS TUF\Downloads\drive-download-20251013T045037Z-1-001\praktik 1.2\praktik 1.2\halloworld\obj\Debug\halloworld.csproj.CoreCompileInputs.cache
+C:\Users\ASUS TUF\Downloads\drive-download-20251013T045037Z-1-001\praktik 1.2\praktik 1.2\halloworld\obj\Debug\halloworld.exe
+C:\Users\ASUS TUF\Downloads\drive-download-20251013T045037Z-1-001\praktik 1.2\praktik 1.2\halloworld\obj\Debug\halloworld.pdb
