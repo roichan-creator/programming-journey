@@ -1,0 +1,7 @@
+C:\Users\ASUS TUF\Downloads\praktik 1.1\praktik 1.1\praktik2\bin\Release\praktik2.exe.config
+C:\Users\ASUS TUF\Downloads\praktik 1.1\praktik 1.1\praktik2\bin\Release\praktik2.exe
+C:\Users\ASUS TUF\Downloads\praktik 1.1\praktik 1.1\praktik2\bin\Release\praktik2.pdb
+C:\Users\ASUS TUF\Downloads\praktik 1.1\praktik 1.1\praktik2\obj\Release\praktik2.csproj.AssemblyReference.cache
+C:\Users\ASUS TUF\Downloads\praktik 1.1\praktik 1.1\praktik2\obj\Release\praktik2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS TUF\Downloads\praktik 1.1\praktik 1.1\praktik2\obj\Release\praktik2.exe
+C:\Users\ASUS TUF\Downloads\praktik 1.1\praktik 1.1\praktik2\obj\Release\praktik2.pdb
