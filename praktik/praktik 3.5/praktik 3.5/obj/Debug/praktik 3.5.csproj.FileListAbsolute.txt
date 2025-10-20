@@ -1,0 +1,7 @@
+C:\praktik\praktik 3.5\praktik 3.5\bin\Debug\praktik 3.5.exe.config
+C:\praktik\praktik 3.5\praktik 3.5\bin\Debug\praktik 3.5.exe
+C:\praktik\praktik 3.5\praktik 3.5\bin\Debug\praktik 3.5.pdb
+C:\praktik\praktik 3.5\praktik 3.5\obj\Debug\praktik 3.5.csproj.AssemblyReference.cache
+C:\praktik\praktik 3.5\praktik 3.5\obj\Debug\praktik 3.5.csproj.CoreCompileInputs.cache
+C:\praktik\praktik 3.5\praktik 3.5\obj\Debug\praktik 3.5.exe
+C:\praktik\praktik 3.5\praktik 3.5\obj\Debug\praktik 3.5.pdb

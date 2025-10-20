@@ -1,0 +1,7 @@
+C:\praktik\kalkulator\kalkulator\obj\Debug\kalkulator.csproj.AssemblyReference.cache
+C:\praktik\kalkulator\kalkulator\obj\Debug\kalkulator.csproj.CoreCompileInputs.cache
+C:\praktik\kalkulator\kalkulator\bin\Debug\kalkulator.exe.config
+C:\praktik\kalkulator\kalkulator\bin\Debug\kalkulator.exe
+C:\praktik\kalkulator\kalkulator\bin\Debug\kalkulator.pdb
+C:\praktik\kalkulator\kalkulator\obj\Debug\kalkulator.exe
+C:\praktik\kalkulator\kalkulator\obj\Debug\kalkulator.pdb

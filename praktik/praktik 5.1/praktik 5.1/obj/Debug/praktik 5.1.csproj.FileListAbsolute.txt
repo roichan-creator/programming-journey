@@ -1,0 +1,7 @@
+C:\belajar c#\praktik 5.1\praktik 5.1\bin\Debug\praktik 5.1.exe.config
+C:\belajar c#\praktik 5.1\praktik 5.1\bin\Debug\praktik 5.1.exe
+C:\belajar c#\praktik 5.1\praktik 5.1\bin\Debug\praktik 5.1.pdb
+C:\belajar c#\praktik 5.1\praktik 5.1\obj\Debug\praktik 5.1.csproj.AssemblyReference.cache
+C:\belajar c#\praktik 5.1\praktik 5.1\obj\Debug\praktik 5.1.csproj.CoreCompileInputs.cache
+C:\belajar c#\praktik 5.1\praktik 5.1\obj\Debug\praktik 5.1.exe
+C:\belajar c#\praktik 5.1\praktik 5.1\obj\Debug\praktik 5.1.pdb
