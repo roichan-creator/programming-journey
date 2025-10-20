@@ -1,0 +1,8 @@
+D:\c#RmfXpplg1\tugas 3 - switch case\tugas 3 - switch case\bin\Debug\tugas 3 - switch case.exe.config
+D:\c#RmfXpplg1\tugas 3 - switch case\tugas 3 - switch case\bin\Debug\tugas 3 - switch case.exe
+D:\c#RmfXpplg1\tugas 3 - switch case\tugas 3 - switch case\bin\Debug\tugas 3 - switch case.pdb
+D:\c#RmfXpplg1\tugas 3 - switch case\tugas 3 - switch case\obj\Debug\tugas 3 - switch case.csproj.AssemblyReference.cache
+D:\c#RmfXpplg1\tugas 3 - switch case\tugas 3 - switch case\obj\Debug\tugas 3 - switch case.csproj.CoreCompileInputs.cache
+D:\c#RmfXpplg1\tugas 3 - switch case\tugas 3 - switch case\obj\Debug\tugas 3 - switch case.exe
+D:\c#RmfXpplg1\tugas 3 - switch case\tugas 3 - switch case\obj\Debug\tugas 3 - switch case.pdb
+D:\c#RmfXpplg1\tugas 3 - switch case\tugas 3 - switch case\obj\Debug\tugas 3 - switch case.exe.config

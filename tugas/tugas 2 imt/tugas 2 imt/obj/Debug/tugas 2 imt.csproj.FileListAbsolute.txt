@@ -1,0 +1,16 @@
+C:\program1\tugas 2 imt\tugas 2 imt\bin\Debug\tugas 2 imt.exe.config
+C:\program1\tugas 2 imt\tugas 2 imt\bin\Debug\tugas 2 imt.exe
+C:\program1\tugas 2 imt\tugas 2 imt\bin\Debug\tugas 2 imt.pdb
+C:\program1\tugas 2 imt\tugas 2 imt\obj\Debug\tugas 2 imt.csproj.AssemblyReference.cache
+C:\program1\tugas 2 imt\tugas 2 imt\obj\Debug\tugas 2 imt.csproj.CoreCompileInputs.cache
+C:\program1\tugas 2 imt\tugas 2 imt\obj\Debug\tugas 2 imt.exe
+C:\program1\tugas 2 imt\tugas 2 imt\obj\Debug\tugas 2 imt.pdb
+C:\program1\tugas 2 imt\tugas 2 imt\obj\Debug\tugas 2 imt.exe.config
+C:\tugas\tugas 2 imt\tugas 2 imt\bin\Debug\tugas 2 imt.exe.config
+C:\tugas\tugas 2 imt\tugas 2 imt\bin\Debug\tugas 2 imt.exe
+C:\tugas\tugas 2 imt\tugas 2 imt\bin\Debug\tugas 2 imt.pdb
+C:\tugas\tugas 2 imt\tugas 2 imt\obj\Debug\tugas 2 imt.csproj.AssemblyReference.cache
+C:\tugas\tugas 2 imt\tugas 2 imt\obj\Debug\tugas 2 imt.exe.config
+C:\tugas\tugas 2 imt\tugas 2 imt\obj\Debug\tugas 2 imt.csproj.CoreCompileInputs.cache
+C:\tugas\tugas 2 imt\tugas 2 imt\obj\Debug\tugas 2 imt.exe
+C:\tugas\tugas 2 imt\tugas 2 imt\obj\Debug\tugas 2 imt.pdb
