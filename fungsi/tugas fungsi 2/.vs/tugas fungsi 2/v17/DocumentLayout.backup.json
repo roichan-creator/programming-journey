@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\praktik\\tugas fungsi 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6AA510CA-3794-4AE1-8546-F51FF20B4E76}|tugas fungsi 2\\tugas fungsi 2.csproj|c:\\praktik\\tugas fungsi 2\\tugas fungsi 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AA510CA-3794-4AE1-8546-F51FF20B4E76}|tugas fungsi 2\\tugas fungsi 2.csproj|solutionrelative:tugas fungsi 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\praktik\\tugas fungsi 2\\tugas fungsi 2\\Program.cs",
+              "RelativeDocumentMoniker": "tugas fungsi 2\\Program.cs",
+              "ToolTip": "C:\\praktik\\tugas fungsi 2\\tugas fungsi 2\\Program.cs",
+              "RelativeToolTip": "tugas fungsi 2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T10:21:16.353Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

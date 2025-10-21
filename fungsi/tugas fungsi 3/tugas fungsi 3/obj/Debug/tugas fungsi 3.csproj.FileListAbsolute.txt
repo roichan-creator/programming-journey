@@ -1,0 +1,8 @@
+C:\praktik\tugas fungsi 3\tugas fungsi 3\bin\Debug\tugas fungsi 3.exe.config
+C:\praktik\tugas fungsi 3\tugas fungsi 3\bin\Debug\tugas fungsi 3.exe
+C:\praktik\tugas fungsi 3\tugas fungsi 3\bin\Debug\tugas fungsi 3.pdb
+C:\praktik\tugas fungsi 3\tugas fungsi 3\obj\Debug\tugas fungsi 3.csproj.AssemblyReference.cache
+C:\praktik\tugas fungsi 3\tugas fungsi 3\obj\Debug\tugas fungsi 3.csproj.CoreCompileInputs.cache
+C:\praktik\tugas fungsi 3\tugas fungsi 3\obj\Debug\tugas fungsi 3.exe
+C:\praktik\tugas fungsi 3\tugas fungsi 3\obj\Debug\tugas fungsi 3.pdb
+C:\praktik\tugas fungsi 3\tugas fungsi 3\obj\Debug\tugas fungsi 3.exe.config

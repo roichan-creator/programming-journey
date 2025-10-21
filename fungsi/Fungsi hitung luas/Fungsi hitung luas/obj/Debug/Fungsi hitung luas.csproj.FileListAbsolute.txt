@@ -1,0 +1,7 @@
+C:\praktik\Fungsi hitung luas\Fungsi hitung luas\bin\Debug\Fungsi hitung luas.exe.config
+C:\praktik\Fungsi hitung luas\Fungsi hitung luas\bin\Debug\Fungsi hitung luas.exe
+C:\praktik\Fungsi hitung luas\Fungsi hitung luas\bin\Debug\Fungsi hitung luas.pdb
+C:\praktik\Fungsi hitung luas\Fungsi hitung luas\obj\Debug\Fungsi hitung luas.csproj.AssemblyReference.cache
+C:\praktik\Fungsi hitung luas\Fungsi hitung luas\obj\Debug\Fungsi hitung luas.csproj.CoreCompileInputs.cache
+C:\praktik\Fungsi hitung luas\Fungsi hitung luas\obj\Debug\Fungsi hitung luas.exe
+C:\praktik\Fungsi hitung luas\Fungsi hitung luas\obj\Debug\Fungsi hitung luas.pdb
