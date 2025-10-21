@@ -1,7 +1,0 @@
-C:\belajar c#\praktik 5.2\praktik 5.2\bin\Debug\praktik 5.2.exe.config
-C:\belajar c#\praktik 5.2\praktik 5.2\bin\Debug\praktik 5.2.exe
-C:\belajar c#\praktik 5.2\praktik 5.2\bin\Debug\praktik 5.2.pdb
-C:\belajar c#\praktik 5.2\praktik 5.2\obj\Debug\praktik 5.2.csproj.AssemblyReference.cache
-C:\belajar c#\praktik 5.2\praktik 5.2\obj\Debug\praktik 5.2.csproj.CoreCompileInputs.cache
-C:\belajar c#\praktik 5.2\praktik 5.2\obj\Debug\praktik 5.2.exe
-C:\belajar c#\praktik 5.2\praktik 5.2\obj\Debug\praktik 5.2.pdb
