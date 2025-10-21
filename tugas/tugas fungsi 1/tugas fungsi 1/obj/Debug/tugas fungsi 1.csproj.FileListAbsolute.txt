@@ -1,8 +1,0 @@
-C:\praktik\tugas fungsi 1\tugas fungsi 1\bin\Debug\tugas fungsi 1.exe.config
-C:\praktik\tugas fungsi 1\tugas fungsi 1\bin\Debug\tugas fungsi 1.exe
-C:\praktik\tugas fungsi 1\tugas fungsi 1\bin\Debug\tugas fungsi 1.pdb
-C:\praktik\tugas fungsi 1\tugas fungsi 1\obj\Debug\tugas fungsi 1.csproj.AssemblyReference.cache
-C:\praktik\tugas fungsi 1\tugas fungsi 1\obj\Debug\tugas fungsi 1.csproj.CoreCompileInputs.cache
-C:\praktik\tugas fungsi 1\tugas fungsi 1\obj\Debug\tugas fungsi 1.exe
-C:\praktik\tugas fungsi 1\tugas fungsi 1\obj\Debug\tugas fungsi 1.pdb
-C:\praktik\tugas fungsi 1\tugas fungsi 1\obj\Debug\tugas fungsi 1.exe.config
