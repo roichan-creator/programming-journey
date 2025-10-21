@@ -1,0 +1,7 @@
+C:\praktik\latihan 1 for\latihan 1 for\bin\Debug\latihan 1 for.exe.config
+C:\praktik\latihan 1 for\latihan 1 for\bin\Debug\latihan 1 for.exe
+C:\praktik\latihan 1 for\latihan 1 for\bin\Debug\latihan 1 for.pdb
+C:\praktik\latihan 1 for\latihan 1 for\obj\Debug\latihan 1 for.csproj.AssemblyReference.cache
+C:\praktik\latihan 1 for\latihan 1 for\obj\Debug\latihan 1 for.csproj.CoreCompileInputs.cache
+C:\praktik\latihan 1 for\latihan 1 for\obj\Debug\latihan 1 for.exe
+C:\praktik\latihan 1 for\latihan 1 for\obj\Debug\latihan 1 for.pdb

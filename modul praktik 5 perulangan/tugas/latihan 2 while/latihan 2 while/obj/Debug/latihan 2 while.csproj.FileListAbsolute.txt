@@ -1,0 +1,8 @@
+C:\praktik\latihan 2 while\latihan 2 while\bin\Debug\latihan 2 while.exe.config
+C:\praktik\latihan 2 while\latihan 2 while\bin\Debug\latihan 2 while.exe
+C:\praktik\latihan 2 while\latihan 2 while\bin\Debug\latihan 2 while.pdb
+C:\praktik\latihan 2 while\latihan 2 while\obj\Debug\latihan 2 while.csproj.AssemblyReference.cache
+C:\praktik\latihan 2 while\latihan 2 while\obj\Debug\latihan 2 while.csproj.CoreCompileInputs.cache
+C:\praktik\latihan 2 while\latihan 2 while\obj\Debug\latihan 2 while.exe
+C:\praktik\latihan 2 while\latihan 2 while\obj\Debug\latihan 2 while.pdb
+C:\praktik\latihan 2 while\latihan 2 while\obj\Debug\latihan 2 while.exe.config
