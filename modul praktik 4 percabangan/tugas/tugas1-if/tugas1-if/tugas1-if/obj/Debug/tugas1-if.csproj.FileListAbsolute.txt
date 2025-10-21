@@ -1,0 +1,7 @@
+D:\c#RmfXpplg1\tugas1-if\tugas1-if\bin\Debug\tugas1-if.exe.config
+D:\c#RmfXpplg1\tugas1-if\tugas1-if\bin\Debug\tugas1-if.exe
+D:\c#RmfXpplg1\tugas1-if\tugas1-if\bin\Debug\tugas1-if.pdb
+D:\c#RmfXpplg1\tugas1-if\tugas1-if\obj\Debug\tugas1-if.csproj.AssemblyReference.cache
+D:\c#RmfXpplg1\tugas1-if\tugas1-if\obj\Debug\tugas1-if.csproj.CoreCompileInputs.cache
+D:\c#RmfXpplg1\tugas1-if\tugas1-if\obj\Debug\tugas1-if.exe
+D:\c#RmfXpplg1\tugas1-if\tugas1-if\obj\Debug\tugas1-if.pdb
