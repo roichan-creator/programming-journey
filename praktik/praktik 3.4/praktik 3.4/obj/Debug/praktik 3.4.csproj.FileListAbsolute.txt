@@ -1,7 +1,0 @@
-C:\praktik\praktik 3.4\praktik 3.4\bin\Debug\praktik 3.4.exe.config
-C:\praktik\praktik 3.4\praktik 3.4\bin\Debug\praktik 3.4.exe
-C:\praktik\praktik 3.4\praktik 3.4\bin\Debug\praktik 3.4.pdb
-C:\praktik\praktik 3.4\praktik 3.4\obj\Debug\praktik 3.4.csproj.AssemblyReference.cache
-C:\praktik\praktik 3.4\praktik 3.4\obj\Debug\praktik 3.4.csproj.CoreCompileInputs.cache
-C:\praktik\praktik 3.4\praktik 3.4\obj\Debug\praktik 3.4.exe
-C:\praktik\praktik 3.4\praktik 3.4\obj\Debug\praktik 3.4.pdb

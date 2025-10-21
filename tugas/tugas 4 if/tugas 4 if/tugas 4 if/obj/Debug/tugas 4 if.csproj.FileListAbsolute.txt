@@ -1,8 +1,0 @@
-D:\c#RmfXpplg1\tugas 4 if\tugas 4 if\obj\Debug\tugas 4 if.csproj.AssemblyReference.cache
-D:\c#RmfXpplg1\tugas 4 if\tugas 4 if\obj\Debug\tugas 4 if.csproj.CoreCompileInputs.cache
-D:\c#RmfXpplg1\tugas 4 if\tugas 4 if\bin\Debug\tugas 4 if.exe.config
-D:\c#RmfXpplg1\tugas 4 if\tugas 4 if\bin\Debug\tugas 4 if.exe
-D:\c#RmfXpplg1\tugas 4 if\tugas 4 if\bin\Debug\tugas 4 if.pdb
-D:\c#RmfXpplg1\tugas 4 if\tugas 4 if\obj\Debug\tugas 4 if.exe
-D:\c#RmfXpplg1\tugas 4 if\tugas 4 if\obj\Debug\tugas 4 if.pdb
-D:\c#RmfXpplg1\tugas 4 if\tugas 4 if\obj\Debug\tugas 4 if.exe.config

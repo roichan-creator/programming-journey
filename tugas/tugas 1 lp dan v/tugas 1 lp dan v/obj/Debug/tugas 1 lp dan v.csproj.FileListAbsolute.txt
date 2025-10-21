@@ -1,8 +1,0 @@
-C:\program1\tugas 1 lp dan v\tugas 1 lp dan v\bin\Debug\tugas 1 lp dan v.exe.config
-C:\program1\tugas 1 lp dan v\tugas 1 lp dan v\bin\Debug\tugas 1 lp dan v.exe
-C:\program1\tugas 1 lp dan v\tugas 1 lp dan v\bin\Debug\tugas 1 lp dan v.pdb
-C:\program1\tugas 1 lp dan v\tugas 1 lp dan v\obj\Debug\tugas 1 lp dan v.csproj.AssemblyReference.cache
-C:\program1\tugas 1 lp dan v\tugas 1 lp dan v\obj\Debug\tugas 1 lp dan v.csproj.CoreCompileInputs.cache
-C:\program1\tugas 1 lp dan v\tugas 1 lp dan v\obj\Debug\tugas 1 lp dan v.exe
-C:\program1\tugas 1 lp dan v\tugas 1 lp dan v\obj\Debug\tugas 1 lp dan v.pdb
-C:\program1\tugas 1 lp dan v\tugas 1 lp dan v\obj\Debug\tugas 1 lp dan v.exe.config
