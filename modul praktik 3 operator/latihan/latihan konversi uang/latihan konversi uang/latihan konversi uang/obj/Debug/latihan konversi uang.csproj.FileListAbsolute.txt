@@ -1,0 +1,8 @@
+D:\c#RmfXpplg1\latihan konversi uang\latihan konversi uang\bin\Debug\latihan konversi uang.exe.config
+D:\c#RmfXpplg1\latihan konversi uang\latihan konversi uang\bin\Debug\latihan konversi uang.exe
+D:\c#RmfXpplg1\latihan konversi uang\latihan konversi uang\bin\Debug\latihan konversi uang.pdb
+D:\c#RmfXpplg1\latihan konversi uang\latihan konversi uang\obj\Debug\latihan konversi uang.csproj.AssemblyReference.cache
+D:\c#RmfXpplg1\latihan konversi uang\latihan konversi uang\obj\Debug\latihan konversi uang.csproj.CoreCompileInputs.cache
+D:\c#RmfXpplg1\latihan konversi uang\latihan konversi uang\obj\Debug\latihan konversi uang.exe
+D:\c#RmfXpplg1\latihan konversi uang\latihan konversi uang\obj\Debug\latihan konversi uang.pdb
+D:\c#RmfXpplg1\latihan konversi uang\latihan konversi uang\obj\Debug\latihan konversi uang.exe.config
